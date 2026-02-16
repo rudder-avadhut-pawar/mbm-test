@@ -1,0 +1,1 @@
+select * FROM mbm-etl.weekly_style_selling_report.retail_calendar_updated
